@@ -1,0 +1,1 @@
+This project uses both the grails mail and green mail plugins to allow easy testing of mail sending in a dev and test environment.
